@@ -1,0 +1,8 @@
+{
+  "name": "Smart Travel Planner",
+  "description": "A modern, responsive tourism web application using AI to solve common travel problems and generate smart travel plans with booking suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
